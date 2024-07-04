@@ -1,1 +1,3 @@
-# Evclid
+Упор в этом сайте делается на методологию БЭМ, работу с доступностью сайта, закрепление на практике работу с CSS-псевдоклассами, псевдоэлементами и трансформациями, работа с адаптацией для любых устройств от 320 до 3840 пикселей по ширине (от самых маленьких мобильных устройств до мониторов 4К), обеспечение кроссбраузерности.
+
+The emphasis in this site is on the BEM methodology, working with site accessibility, fixing in practice working with CSS pseudo-classes, pseudo-elements and transformations, working with adaptation for any device from 320 to 3840 pixels wide (from the smallest mobile devices to 4K monitors), ensuring cross-browser compatibility.
